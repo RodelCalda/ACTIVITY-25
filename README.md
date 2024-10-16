@@ -44,5 +44,5 @@ export interface PaymentProcessor {
 
 ### Final Steps
 
-1. **Links**: `` 
+1. **Links**: `https://rodelcalda.hashnode.dev/activity-25-solid-principles-angular?showSharer=true` 
 
