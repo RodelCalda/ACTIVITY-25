@@ -42,7 +42,5 @@ export interface PaymentProcessor {
   process(): void;
 }
 
-### Final Steps
-
-1. **Links**: `https://rodelcalda.hashnode.dev/activity-25-solid-principles-angular?showSharer=true` 
+### Links: `https://rodelcalda.hashnode.dev/activity-25-solid-principles-angular` 
 
