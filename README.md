@@ -6,8 +6,6 @@ This project demonstrates the application of SOLID principles in Angular, partic
 
 - [Introduction](#introduction)
 - [SOLID Principles](#solid-principles)
-- [Implementation](#implementation)
-- [Usage](#usage)
 - [Documentation](#documentation)
 
 ## Introduction
@@ -31,16 +29,7 @@ Clients should not be forced to depend on interfaces they do not use. By definin
 ### D - Dependency Inversion Principle (DIP)
 High-level modules should not depend on low-level modules but rather on abstractions. This project uses an `InjectionToken` to inject multiple payment processors into the `PaymentService`.
 
-## Implementation
-
-### Payment Processor Interface
-
-Define the `PaymentProcessor` interface:
-
-```typescript
-export interface PaymentProcessor {
-  process(): void;
-}
+## Documentation
 
 ### Links: `https://rodelcalda.hashnode.dev/activity-25-solid-principles-angular` 
 
